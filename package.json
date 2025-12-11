@@ -80,7 +80,7 @@
     "got": "14.4.1",
     "iconv-lite": "^0.6.3",
     "js-yaml": "^4.1.0",
-    "jws": "^4.0.0",
+    "jws": "^4.0.1",
     "node-stream-zip": "^1.15.0",
     "packageurl-js": "1.0.2",
     "prettify-xml": "^1.2.0",
